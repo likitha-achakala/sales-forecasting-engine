@@ -42,8 +42,8 @@ sales-forecasting-engine/
 
 | | |
 |---|---|
-| ![Model Comparison](visuals/model_comparison.png) | ![Actual vs Predicted](visuals/actual_vs_predicted.png) |
-| ![Feature Importance](visuals/feature_importance.png) | ![30-Day Forecast](visuals/forecast_next_30_days.png) |
+| ![Model Comparison](model_comparison.png) | ![Actual vs Predicted](actual_vs_predicted.png) |
+| ![Feature Importance](feature_importance.png) | ![30-Day Forecast](forecast_next_30_days.png) |
 
 ## Running it yourself
 
